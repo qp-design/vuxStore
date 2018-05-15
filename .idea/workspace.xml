@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="691a57b1-8e45-487f-a952-343121ab0d58" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/join.html" afterPath="" />
@@ -12,6 +13,15 @@
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
 >>>>>>> one
     </list>
+=======
+    <list default="true" id="b86d4d6c-7d4d-43b1-b8b4-e99bfd6e10ab" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/join.html" afterPath="$PROJECT_DIR$/join.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+>>>>>>> two
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +31,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
@@ -34,6 +45,13 @@
             <state relative-caret-position="204">
               <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
 >>>>>>> one
+=======
+      <file leaf-file-name="join.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/join.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+>>>>>>> two
               <folding />
             </state>
           </provider>
@@ -48,10 +66,14 @@
     <option name="CHANGED_PATHS">
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/index.html" />
 =======
         <option value="$PROJECT_DIR$/about.html" />
 >>>>>>> one
+=======
+        <option value="$PROJECT_DIR$/join.html" />
+>>>>>>> two
       </list>
     </option>
   </component>
@@ -63,12 +85,17 @@
   </component>
   <component name="ProjectFrameBounds">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="x" value="3" />
     <option name="y" value="37" />
 =======
     <option name="x" value="48" />
     <option name="y" value="30" />
 >>>>>>> one
+=======
+    <option name="x" value="84" />
+    <option name="y" value="37" />
+>>>>>>> two
     <option name="width" value="1437" />
     <option name="height" value="798" />
   </component>
@@ -87,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="ProjectPane" />
 <<<<<<< HEAD
       <pane id="Scratches" />
@@ -99,6 +127,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+=======
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vuxStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuxStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> two
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
@@ -122,6 +171,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <changelist id="691a57b1-8e45-487f-a952-343121ab0d58" name="Default" comment="" />
       <created>1526369643915</created>
       <option name="number" value="Default" />
@@ -136,10 +186,19 @@
       <updated>1526369542133</updated>
       <workItem from="1526369543388" duration="52000" />
 >>>>>>> one
+=======
+      <changelist id="b86d4d6c-7d4d-43b1-b8b4-e99bfd6e10ab" name="Default" comment="" />
+      <created>1526369367688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526369367688</updated>
+      <workItem from="1526369368988" duration="124000" />
+>>>>>>> two
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="41000" />
   </component>
@@ -151,6 +210,12 @@
   <component name="ToolWindowManager">
     <frame x="48" y="30" width="1437" height="798" extended-state="0" />
 >>>>>>> one
+=======
+    <option name="totallyTimeSpent" value="124000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="84" y="37" width="1437" height="798" extended-state="0" />
+>>>>>>> two
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -184,6 +249,7 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -194,6 +260,12 @@
         <state relative-caret-position="204">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
 >>>>>>> one
+=======
+    <entry file="file://$PROJECT_DIR$/join.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+>>>>>>> two
           <folding />
         </state>
       </provider>
