@@ -17,10 +17,15 @@
     </list>
 =======
     <list default="true" id="b86d4d6c-7d4d-43b1-b8b4-e99bfd6e10ab" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/join.html" afterPath="$PROJECT_DIR$/join.html" />
 =======
 >>>>>>> one
+=======
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> two
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,6 +39,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <leaf>
 <<<<<<< HEAD
@@ -52,6 +58,10 @@
 >>>>>>> one
 =======
       <file leaf-file-name="join.html" pinned="false" current-in-tab="true">
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="join.html" pinned="false" current-in-tab="false">
+>>>>>>> two
         <entry file="file://$PROJECT_DIR$/join.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -70,6 +80,16 @@
             <state relative-caret-position="238">
               <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
 >>>>>>> one
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -95,6 +115,10 @@
 >>>>>>> one
 =======
         <option value="$PROJECT_DIR$/join.html" />
+<<<<<<< HEAD
+>>>>>>> two
+=======
+        <option value="$PROJECT_DIR$/.gitignore" />
 >>>>>>> two
       </list>
     </option>
@@ -109,6 +133,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="x" value="3" />
     <option name="y" value="37" />
 =======
@@ -120,6 +145,9 @@
 >>>>>>> one
 =======
     <option name="x" value="84" />
+=======
+    <option name="x" value="3" />
+>>>>>>> two
     <option name="y" value="37" />
 >>>>>>> two
     <option name="width" value="1437" />
@@ -140,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -163,6 +192,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
 =======
       <pane id="Scope" />
+=======
+>>>>>>> two
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,10 +206,14 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+<<<<<<< HEAD
 =======
       <pane id="Scope" />
       <pane id="ProjectPane" />
 >>>>>>> one
+=======
+      <pane id="Scope" />
+>>>>>>> two
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,6 +267,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526369367688</updated>
       <workItem from="1526369368988" duration="124000" />
+<<<<<<< HEAD
 >>>>>>> two
 =======
       <workItem from="1526369970591" duration="33000" />
@@ -240,10 +276,14 @@
 =======
       <workItem from="1526370153005" duration="32000" />
 >>>>>>> one
+=======
+      <workItem from="1526370628926" duration="27000" />
+>>>>>>> two
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -273,6 +313,12 @@
   <component name="ToolWindowManager">
     <frame x="3" y="30" width="1437" height="798" extended-state="0" />
 >>>>>>> one
+=======
+    <option name="totallyTimeSpent" value="151000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="37" width="1437" height="798" extended-state="0" />
+>>>>>>> two
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -321,6 +367,14 @@
 =======
     <entry file="file://$PROJECT_DIR$/join.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/join.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
 >>>>>>> two
@@ -357,6 +411,14 @@
         <state relative-caret-position="238">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
 >>>>>>> one
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
